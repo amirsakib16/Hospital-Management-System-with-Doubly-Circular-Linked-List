@@ -37,7 +37,7 @@ A robust, CLI-based management system designed to handle patient queues using a 
 
 1. **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/Hospital-Waiting-Room-Management.git](https://github.com/your-username/Hospital-Waiting-Room-Management.git)
+    git clone https://github.com/amirsakib16/Hospital-Management-System-with-Doubly-Circular-Linked-List.git
     ```
 
 2. **Project Structure:**
