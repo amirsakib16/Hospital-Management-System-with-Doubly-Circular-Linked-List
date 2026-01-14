@@ -68,3 +68,6 @@ A robust, CLI-based management system designed to handle patient queues using a 
 
 ## License
 This project is open-source and available under the MIT License.
+
+---
+[![Linked](https://img.shields.io/badge/LINKED_TO-AGENT__Dx45TcP9-blue?style=for-the-badge)](https://github.com/amirsakib16/AGENT__Dx45TcP9)
