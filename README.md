@@ -6,9 +6,11 @@ A robust, CLI-based management system designed to handle patient queues using a 
 
 # PatientFlow | Hospital Waiting Room Management System
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Badge" />
   <br />
-  <img src="https://img.shields.io/badge/Data_Structure-Linked_List-blue?style=flat-square" alt="Structure" />
+  <a href="https://hospital-management-gamma-silk.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/live_demo-online-brightgreen?style=flat-square" alt="Live Demo" />
+  </a>
 </p>
 
 ---
